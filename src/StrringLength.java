@@ -36,6 +36,7 @@ public class StrringLength {
 
        System.out.println("hello world");
        System.out.println("kavindi rashmika");
+       System.out.println("hii hiii");
 
 
 
