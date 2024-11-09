@@ -34,7 +34,7 @@ public class StrringLength {
        String intern2 = s4.intern();
        System.out.println(interned1 == intern2);
 
-       
+       System.out.println("hello world");
 
 
    }
