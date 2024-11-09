@@ -35,6 +35,7 @@ public class StrringLength {
        System.out.println(interned1 == intern2);
 
        System.out.println("hello world");
+       System.out.println("kavindi rashmika");
 
 
 
